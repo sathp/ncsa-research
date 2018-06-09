@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1528738634952.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3480352540",
+    "id" : "B66771E9",
+    "lastKnownWriteTime" : 1528745463,
+    "last_content_update" : 1528745463829,
+    "path" : "~/Desktop/ncsa-research/Research Plan/research-plan.Rmd",
+    "project_path" : "research-plan.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "14,0",
+        "docOutlineVisible" : "0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
