@@ -1,0 +1,92 @@
+id,name,start_date,end_date,description,design,user_id,created_at,updated_at
+6000000012,Danforth Sorghum Pilot: Drought Tolerance,5/27/14,6/24/14,"# Materials
+
+ProMix BRK20 + 14-14-14 Osmocote pots; pre-filled by Hummert Sorghum seed
+Conviron Growth House
+LemnaTec moving field conveyor belt system
+Scanalyzer 3D platform
+
+# Procedures
+
+## Planting
+
+Plant directly into phenotyping pots 
+
+## Chamber Conditions
+
+Pre-growth (11 days) and Phenotying (11 days)
+14 hour photoperiod
+32 C day / 22 C night temperature
+60% relative humidity
+700 umol/m2/s light
+
+Watering Conditions
+Prior to phenotyping, plants watered daily
+The first night after loading, plants watered 1× by treatment group to 100% field capacity (fc)
+Days 2 – 12, plants watered 2× daily by treatment group (100% or 30% FC) to target weight
+Automation
+
+Left shift lane rotation within each GH, during overnight watering jobs
+VIS (TV and 2 x SV), NIR (TV and 2 x SV) imaging daily
+Recipes
+
+Field capacity = 200% GWC (200 g water/100 g soil), based upon extensive GWC testing done by Skyler Mitchell
+Target weight (fc) = [(water weight at % fc) + [(average weight of carrier/saucer) + (dry soil weight) + (pot weight)]
+Water weight at 100% fc = dry soil weight * (%GWC/100)
+Water weight at 30% fc = water weight at 100% fc * 0.30",,6000000004,44:28.5,16:46.2
+6000000001,MAC Season 1: Biomass,4/19/16,7/14/16,,,6000000005,51:39.1,10:17.4
+6000000002,MAC Season 1: Buffer,4/19/16,7/14/16,,,6000000005,51:39.2,10:22.9
+6000000003,MAC Season 1: Density,4/19/16,7/14/16,,,6000000005,51:39.2,10:28.5
+6000000004,MAC Season 1: RILs,4/19/16,7/14/16,,,6000000005,51:39.2,10:34.2
+6000000005,MAC Season 1: Row#,4/19/16,7/14/16,,,6000000005,51:39.2,10:40.7
+6000000006,MAC Season 1: Uniform,4/19/16,7/14/16,,,6000000005,51:39.2,10:45.6
+6000000007,MAC Season 1: nighthv,4/19/16,7/14/16,,,6000000005,51:39.2,10:53.3
+6000000008,MAC Season 2: Stay-green RILs F10,8/3/16,12/2/16,,,6000000005,54:48.1,11:02.1
+6000000009,KSU 2016: Biomass Association Panel,3/15/16,10/25/16,Bioenergy association panel (BAP) study at KSU Summer 2016,"Field location Ashland Bottoms
+Randomized Block Design with augmentation
+   augmentation means each range has a plot w/ each check 
+   Two blocks, one replicate plot per genotype per block
+   each plot consists of 4 rows
+
+BAP: 365 photoperiod sensitive lines from Steve Kresovich Clemson SC
+Hybrid Cultivars used as checks: Ceres Blade and Richardson Pacesetter
+Grain Sorghum also planted to fill out empty plots",6000000004,27:40.9,11:12.4
+6000000011,MAC Season 3: Winter Wheat,12/20/16,4/5/17,Durum wheat diversity panel (280 durum lines) plus 10 ranges of Uniformity plots (2 durum varieties),,6000000004,51:49.7,11:24.0
+6000000013,KSU 2016: Ashland Bottoms BAP & RIL,6/7/16,10/21/16,"Germplasm used for the project
+1) Bioenergy association panel (BAP)
+       ----photo period sensitive
+       ----Tall to very tall
+       ----365 lines
+       ----from Clemson SC
+2)   Biomass Recombinant Inbred Lines (RILs)
+       ----R10766 X R08331
+       ----Photoperiod insensitive 
+       ----semi-dwarf to mod-tall
+       ----about 200 lines (two families)
+       ----From Texas A&M
+
+","Randomized Block Design with augmentation
+2 experimental replicate 4 row plots per cultivar
+Protect fill: four rows each side of ranges, one range each side of row, and between of two experimental blocks, two hybrid cultivars were used as fill, Ceres Blade and Richardson Pacesetter.
+Fill around experiment
+- oats, planted June 30 2016
+",6000000004,08:48.3,33:23.1
+6000000020,MAC Season 1: BAP,4/19/16,7/14/16,,,6000000005,51:39.1,40:28.4
+6000000026,MAC Season 3: Winter Wheat Border,12/20/16,4/5/17,Durum wheat diversity panel (280 durum lines) plus 10 ranges of Uniformity plots (2 durum varieties),,6000000004,00:26.5,00:26.5
+6000000027,MAC Season 3: Winter Wheat Uniformity Block,12/20/16,4/5/17,Durum wheat diversity panel (280 durum lines) plus 10 ranges of Uniformity plots (2 durum varieties),,6000000004,00:28.4,00:28.4
+6000000017,MAC Season 4: Border Plots,4/20/17,9/18/17,Border Plots in Mac Season 4.,,6000000004,27:31.9,06:35.8
+6000000016,MAC Season 4: Short BAP Accessions,4/20/17,9/18/17,"Biomass Association Panel (BAP). Ranges 11, 20, 46, 50 with short BAP accessions within Mac Season 4.",,6000000004,27:29.9,06:35.8
+6000000015,MAC Season 4: Medium BAP Accessions,4/20/17,9/18/17,"Biomass Association Panel (BAP). Ranges 10, 12, 18, 24, 27, 29, 31, 33, 38, 51 with medium height BAP accessions within Mac Season 4.",,6000000004,27:29.9,06:35.8
+6000000014,MAC Season 4: Tall BAP Accessions,4/20/17,9/18/17,Biomass Association Panel (BAP). Ranges of tall BAP accessions within Mac Season 4,,6000000004,27:29.9,06:35.8
+6000000028,MAC Season 3: Winter Wheat North,12/20/16,4/5/17,Durum wheat diversity panel (280 durum lines) plus 10 ranges of Uniformity plots (2 durum varieties),,6000000004,00:29.9,00:29.9
+6000000029,MAC Season 3: Winter Wheat South,12/20/16,4/5/17,Durum wheat diversity panel (280 durum lines) plus 10 ranges of Uniformity plots (2 durum varieties),,6000000004,00:29.9,00:29.9
+6000000031,Danforth BAP Drought LT1b: Drought Experiment (TM016_F_052716),5/16/16,6/7/16,Sorghum Bioenergy Association Panel drought experiment LT1b (TM016_F_052716).,Planting was done on 2016-05-16. Germination and seedling development was done in growth chambers until 2016-05-27. Plants were phenotyped on the Danforth Center Bellwether Phenotyping Facility from 2016-05-27 to 2016-06-07. The photoperiod used was 700 umol/m^2/s light intensity for 14/10 hours light/dark at 32C/22C light/dark and 60% relative humidity. Three replicates of 190 BAP lines were grown in a randomized complete block design. Watering regimes were 30% field capacity and 100% field capacity. Drought conditions were imposed 10 days after planting.,6000000008,38:43.4,20:01.3
+6000000030,Danforth BAP Drought LT1a:  Drought Experiment (TM015_F_051616),5/5/16,5/27/16,Sorghum Bioenergy Association Panel drought experiment LT1a (TM015_F_051616).,Planting was done on 2016-05-05. Germination and seedling development was done in growth chambers until 2016-05-16. Plants were phenotyped on the Danforth Center Bellwether Phenotyping Facility from 2016-05-16 to 2016-05-27. The photoperiod used was 700 umol/m^2/s light intensity for 14/10 hours light/dark at 32C/22C light/dark and 60% relative humidity. Three replicates of 190 BAP lines were grown in a randomized complete block design. Watering regimes were 30% field capacity and 100% field capacity. Drought conditions were imposed 10 days after planting.,6000000008,42:42.8,19:43.2
+6000000033,MAC Season 5: Winter Wheat,12/1/17,3/31/18,,,6000000004,15:07.9,17:22.1
+6000000034,MAC Season 6: Sorghum BAP,4/6/18,10/1/18,,,6000000004,18:12.0,38:32.3
+6000000010,MAC Season 4: All BAP Accessions,4/20/17,9/18/17,"Biomass Association Panel (BAP).  See the following reference for description of BAP: Brenton, ZW et al.  2016.  A genomic resource for the development, improvement, and exploitation of sorghum for bioenergy.  Genetics 204: 21-33. ","BAP experiment with 350 accessions in 2 replicates.  
+Planted in 2-row plots.  
+Plot width = 152.4 cm (2-rows, row width of 76.2 cm).  
+Planted length = 3.4 meters with 0.6 meter alley-way (total 4.0 meters for each plot).
+
+The experiment is arranged in two replicates (blocks) as a row-column design with a further constraint that lines (accessions) are blocked by height class. This blocking is applied across ranges. Two ranges per replicate are assigned to short stature plants, and five ranges per replicate are assigned to medium stature plants. Thus in specifying a model for analysis, lines (accessions) are nested within height/stature classes.  In the field plan, field ranges represent rows, and field columns represent columns.  See also the following reference for description of row-column designs:  Piepho, HP et al. 2015.  Beyond Latin Squares: A brief tour of row-column designs.  Agronomy Journal 107: 2263-2270.",6000000004,48:18.6,12:39.9

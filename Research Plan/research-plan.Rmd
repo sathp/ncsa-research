@@ -1,21 +1,45 @@
 ---
-title: 
-author: Sathwik Pochampally, David LeBauer
+title: "Predicting the Yield Potential of Sorghum using Derived Plant Phenotypes and Sensor Data"
+author: "Sathwik Pochampally, Dr. David LeBauer"
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
 
-#### Predicting the Yield Potential of Sorghum using Derived Plant Phenotypes
+# Abstract
+**Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform**
 
-*Sathwik Pochampally and David LeBauer*
-
-##### Goals
-
+# Introduction
 
 
-##### Background
+# Background and Significance
+The sensor data will include spectral reflectance, 3d point clouds, flourescence, hyperspectral, multispectral stereo and infrared heat imaging. The imaging data from the sensors will be pre-processed to simulate changes in lighting conditions and to increase the size of the training data set. This sensor data will be labeled with relevant plant trait data such as biomass yield before applying linear regression techniques on the data. Applying linear regression techniques on the data will help generate a model that can
 
-##### Design
+# Design and Statistical Analysis
+This project will aim to apply machine learning techniques on agricultural imaging sensor data clustered with plant trait data to accurately predict the yield potential of sorghum.
 
-##### Potential Benefits
+# Results
+Being able to accurately predict plant yields is essential for enhancing the sustainability of crop production. Current yield forecasting methods rely on statistical analysis of ground truth crop yield data. While this data can help us predict crop yield in a given year or season at a large scale, it fails to give us important agricultural insights that could help us better engineer plants to maximize yield while minimizing inputs. Other older yield forecasting methods rely on modelling plant growth to predict yields. These methods cannot accurately predict plant yield and do not generate new data or insights. 
+
+# Discussion 
+We will be combining computer vision and machine learning techniques with data from the TERRA REF phenotype database and raw imaging data from sensors deployed by the TERRA REF project at various sites to create models that can predict yield. 
+
+The phenotype database contains trait data such as plant height, biomass, leaf area, transpiration, phenology, water use efficiency, and biomass yield. [@lebauer2015] This data will be used to conduct correlational analyses to investigate the likeliness of a linear relationship between certain plant traits and yield potential.
+
+
+
+  1. predict yield potential of crops
+    
+  2. generate actionable agricultural insights that can help increase crop yield.
+
+# Conclusion
+- Being able to predict plant yield potential can help enhance sustainable crop production. 
+- The use of computer vision will allow for the non-destructive assessment of plant yield.
+- Computer vision also allows us to study large collections of crop without labor intensive work through the use of high-quality cameras and sensors. 
+
+# Summary
+
+# Recommendations
+
+# References

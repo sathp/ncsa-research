@@ -1,0 +1,64 @@
+#History files
+.Rhistory
+.Rapp.history
+
+# Session Data files
+.RData
+
+# Example code in package build process
+*-Ex.R
+
+# Output files from R CMD build
+/*.tar.gz
+
+# Output files from R CMD check
+/*.Rcheck/
+
+# RStudio files
+.Rproj.user/
+
+# knitr and R markdown default cache directories
+/*_cache/
+/cache/
+
+# Temporary files created by R markdown
+*.utf8.md
+*.knit.md
+
+# Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
+rsconnect/
+
+# Tensorflow stuff
+.DS_Store
+.ipynb_checkpoints
+node_modules
+/.bazelrc
+/.tf_configure.bazelrc
+/bazel-*
+/bazel_pip
+/tools/python_bin_path.sh
+/tensorflow/tools/git/gen
+/pip_test
+/_python_build
+*.pyc
+__pycache__
+*.swp
+.vscode/
+cmake_build/
+.idea/**
+/build/
+[Bb]uild/
+/tensorflow/core/util/version_info.cc
+/tensorflow/python/framework/fast_tensor_util.cpp
+Pods
+Podfile.lock
+*.pbxproj
+*.xcworkspacedata
+/tensorflow/contrib/lite/downloads/**
+/tensorflow/contrib/lite/gen/**
+/tensorflow/contrib/lite/examples/ios/simple/data/*.txt
+/tensorflow/contrib/lite/examples/ios/simple/data/*.tflite
+xcuserdata/**
+/api_init_files_list.txt
+/estimator_api_init_files_list.txt
+
